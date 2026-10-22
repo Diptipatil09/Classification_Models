@@ -48,12 +48,7 @@ iris-classification-models/
 │
 ├── classification_models.py
 ├── README.md
-├── requirements.txt
-├── iris_results.csv
-├── iris_classification_comparison.png
-├── sample_output.txt
-└── screenshots/
-    └── execution_output.png
+└── screenshots.png
 ```
 
 **Note:** The results, graph, sample output, and screenshots are generated after executing the program. Add these files to the repository when available.
